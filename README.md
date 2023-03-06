@@ -37,8 +37,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">&nbsp;
 
-<br>
-
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/abdelhak-benamirouche/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "abdelhak-benamirouche" height="30" width="40"/></a>
