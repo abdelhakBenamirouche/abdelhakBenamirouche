@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on AI projects, espacially **Computer Vision**.
 - 🌱 I’m actually learning **Deep Reinforcement Learning**.
 - ⚙️ **.ipynb** is my best friend.
-- 📫 Reach me at abdelhak.benamirouche@g.enp.edu.dz.
-- ⚡ Fact about me : **I like to learn and do everything from Scratch !**.
+- 📫 Reach me at abdelhak.benamirouche@g.enp.edu.dz
+- ⚡ Fact about me : **I like to learn and do everything from Scratch !**
 
 ### Languages & tools I use
 
