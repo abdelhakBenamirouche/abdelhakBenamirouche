@@ -11,7 +11,7 @@
 
 ### Languages & tools I use
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20%;">&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;
@@ -40,15 +40,8 @@
 <a href="https://www.linkedin.com/in/abdelhak-benamirouche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "abdelhak-benamirouche" height="30" width="40"/></a>
 <a href="https://www.kaggle.com/abdelhakbenamirouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelhakbenamirouche" height="30" width="40" /></a>
 
-
-
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-
-
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">&nbsp;
 
 <!--
 **abdelhakBenamirouche/abdelhakBenamirouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
