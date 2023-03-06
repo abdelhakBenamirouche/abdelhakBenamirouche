@@ -29,6 +29,7 @@
 <img  align="left" alt ="scikit_learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;"/>
 <img  align="left" alt ="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;"/>
 
+<br>
 
 ### Connect with me
 
