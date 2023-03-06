@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdelhak 👋
 
 - 🏢 I'm a **Final year Automation & Control Engineering student at <a href = "https://www.enp.edu.dz/en/">National Polytechnic School of Algiers</a>**.
-- 🔭 I am currently working on my final year project on **Reinforcement and Deep Learning** based optimization for pose estimation in **multi-agent robotic systems**.
+- 🔭 I am currently working on my final year project on **Reinforcement and Deep Learning based optimization for pose estimation in multi-agent robotic systems**.
 - 🔥 Interested in the application of **Artificial Intelligence** in **Robotics**.
 - 👯 I’m looking to collaborate on AI projects, espacially **Computer Vision**.
 - 🌱 I’m actually learning **Deep Reinforcement Learning**.
