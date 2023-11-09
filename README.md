@@ -1,12 +1,12 @@
 ### Hi there, I'm Abdelhak 👋
 
-- 🏢 I'm a **Final year Automation & Control Engineering student at <a href = "https://www.enp.edu.dz/en/">National Polytechnic School of Algiers</a>**.
-- 🔭 I am currently working on my final year project on **Reinforcement and Deep Learning based optimization for pose estimation in multi-agent robotic systems**.
+- 🏢 I'm a ***Automation & Control Engineer*** graduated from ***<a href = "https://www.enp.edu.dz/en/">National Polytechnic School of Algiers</a>*** and final year ***Advanced Systems and Robotics student*** at ***<a href = "https://sciences.sorbonne-universite.fr/">Sorbonne Universite</a>***.
+- 🔭 My final year project was on **Reinforcement and Deep Learning based optimization for pose estimation in multi-agent robotic systems**.
 - 🔥 Interested in the application of **Artificial Intelligence** in **Robotics**.
 - 👯 I’m looking to collaborate on AI projects, espacially **Computer Vision**.
 - 🌱 I’m actually learning **Deep Reinforcement Learning**.
-- ⚙️ **.ipynb** is my best friend.
-- 📫 Reach me at abdelhak.benamirouche@g.enp.edu.dz
+- ⚙️ **.py**, **.ipynb** and **.m** are my best friends.
+- 📫 Reach me at abdelhak.benamirouche@etu.sorbonne-universite.fr
 - ⚡ Fact about me : **I like to learn and do everything from Scratch !**
 
 ### Languages & tools I use
